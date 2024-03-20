@@ -1,0 +1,140 @@
+Paso 5: Definir MISIÓN, VISIÓN Y VALORES
+
+context = "Eres el CEO de la nueva agencia de influencers creados con inteligencia artificial llamada República IA. Estas definiendo la estrategia de comunicación de la agencia y hay que escribir la MISIÓN, VISIÓN y VALORES "
+
+prompt = """
+Estas armando una nueva agencia enfocada en influencers creados por inteligencia artificial. Se llama Republica IA y debes escribir la misión, visión y valores de la agencia. Tené en cuenta los siguientes ejemplos para definir la misión, visión y valores de la agencia
+
+Misión empresarial
+La misión empresarial es una declaración concisa y clara que define el propósito fundamental de una organización.
+Va más allá de la mera generación de ganancias.
+Encapsulando las razones por las cuales la empresa existe en el mercado y en la sociedad.
+Esta declaración es crucial porque establece el marco dentro del cual la empresa opera y toma decisiones estratégicas.
+▷ Importancia de la misión en la estrategia corporativa
+Una misión bien definida sirve como el cimiento sobre el cual se construye toda estrategia corporativa.
+Ofrece una dirección clara y un sentido de propósito, asegurando que todas las actividades de la empresa estén alineadas con sus objetivos centrales.
+Una misión coherente ayuda a enfocar los recursos y energías de la empresa hacia metas específicas.
+Esto resulta en una mayor eficiencia y efectividad en la consecución de objetivos.
+▷ Ejemplos de misiones empresariales efectivas
+Aunque seguramente ya los conozcas, estos ejemplos pueden ser muy ilustrativos:
+· Google:
+«Organizar la información del mundo y hacerla universalmente accesible y útil.»
+Este enunciado refleja el compromiso de Google con la accesibilidad y organización de la información a nivel mundial.
+Una misión que ha guiado su evolución desde un motor de búsqueda hasta un gigante tecnológico con múltiples productos y servicios.
+· Nike:
+«Ofrecer inspiración e innovación a todos los atletas* del mundo (Si tienes un cuerpo, eres un atleta)»
+Esta misión de Nike va más allá de vender productos deportivos.
+Busca inspirar y equipar a todas las personas para alcanzar su potencial atlético.
+Lo que se refleja en su amplia gama de productos y en su marketing inclusivo.
+· Starbucks:
+«Inspirar y nutrir el espíritu humano: una persona, una taza y un vecindario a la vez»
+Starbucks se centra no solo en el café, sino en la experiencia completa que ofrece a sus clientes, creando un sentido de comunidad y conexión en cada una de sus tiendas.
+Estos ejemplos muestran cómo las misiones empresariales, cuando están bien formuladas, pueden capturar la esencia de lo que hace única a una empresa.
+Y guiar su estrategia y operaciones hacia el éxito y el impacto significativo.
+▷ Cómo formular una misión empresarial
+Formular una misión empresarial efectiva requiere introspección y una comprensión profunda de la identidad de la empresa.
+Los siguientes pasos pueden guiar este proceso:
+Identificación del propósito central: Comprender qué hace única a la empresa y qué valor aporta a sus clientes y a la sociedad.
+Claridad y concisión: La misión debe ser clara, directa y fácilmente comprensible para todos los interesados.
+Inclusión de valores fundamentales: Integrar los principios y valores que guían la conducta de la empresa.
+Visión a largo plazo: Aunque enfocada en el presente, la misión debe ser lo suficientemente amplia para abarcar el crecimiento y la evolución futura de la empresa.
+Una misión empresarial bien definida es más que una declaración; es una guía operativa que influye en cada aspecto de la organización.
+Proporciona dirección, fomenta la unidad, y sirve como un recordatorio constante del propósito fundamental de la empresa.
+Visión empresarial
+La visión empresarial es una declaración aspiracional que describe el futuro deseado al que una organización aspira llegar.
+Es una imagen clara y motivadora de lo que la empresa espera lograr a largo plazo.
+A menudo establecida en un horizonte temporal de cinco a diez años, o incluso más.
+La visión proporciona un destino claro, inspirando y uniendo a los empleados e interesados en un objetivo común.
+▷ Relación entre la visión y el futuro de la empresa
+Una visión potente actúa como un faro, guiando la dirección estratégica de la empresa.
+Ayuda a priorizar objetivos, influir en decisiones y fomentar una cultura de innovación y progreso.
+Una visión clara es especialmente importante en tiempos de cambio o incertidumbre, ya que ofrece una constancia que puede mantener a la empresa enfocada y resiliente frente a desafíos.
+▷ Ejemplos de visiones inspiradoras
+Algunas te sorprenderán:
+· Tesla:
+«Acelerar la transición del mundo hacia la energía sostenible.»
+Esta visión no solo refleja la ambición de Tesla en el sector automotriz, sino también su compromiso con un impacto ambiental más amplio.
+· Microsoft:
+«Empoderar a cada persona y cada organización en el planeta para lograr más.»
+Microsoft centra su visión en el empoderamiento a través de la tecnología, subrayando su enfoque en la accesibilidad y la utilidad.
+▷ Pasos para desarrollar una visión empresarial
+El desarrollo de una visión empresarial requiere reflexión y una comprensión profunda de las capacidades y aspiraciones de la empresa:
+Imaginar el futuro ideal: Considerar hacia dónde quiere ir la empresa y qué logros quiere alcanzar.
+Alcance y ambición: Establecer una visión que sea ambiciosa pero alcanzable, motivando a la innovación y el crecimiento.
+Claridad y comunicación: La visión debe ser clara y fácil de comunicar a todos los niveles de la organización.
+Alineación con la misión y valores: Asegurarse de que la visión esté en armonía con la misión y los valores de la empresa.
+La visión empresarial es mucho más que una simple declaración; es un catalizador para el crecimiento y la innovación.
+Actúa como un norte que guía las decisiones estratégicas y motiva a los empleados a trabajar hacia un objetivo común y emocionante.
+Una visión clara y bien articulada es fundamental para inspirar a todos los involucrados en la empresa hacia un futuro prometedor y exitoso.
+
+Valores corporativos
+Los valores corporativos son los principios y creencias fundamentales que guían el comportamiento y las decisiones dentro de una organización.
+Estos valores reflejan la ética, la cultura y el carácter de la empresa.
+Y son cruciales para establecer cómo la empresa y sus empleados interactúan entre sí, con los clientes, y con otras partes interesadas.
+▷ Importancia de los valores en la cultura empresarial
+Los valores corporativos son el corazón de la cultura empresarial.
+Proporcionan un marco para la toma de decisiones éticas y responsables, influyen en la forma en que la empresa conduce sus negocios y cómo se percibe en el mercado.
+Valores sólidos y consistentemente aplicados pueden fomentar la confianza, la lealtad y el respeto entre los empleados, clientes y la comunidad.
+▷ Ejemplos de valores corporativos comunes
+Integridad: Compromiso con la honestidad y la justicia en todas las operaciones.
+Innovación: Fomentar la creatividad y la búsqueda constante de mejoras y soluciones nuevas.
+Responsabilidad social: Enfoque en el impacto social y ambiental positivo de la empresa.
+Excelencia en el servicio: Dedicación a brindar un servicio de calidad superior a los clientes.
+Empresas como Apple, que valora la innovación y el diseño, y Patagonia, conocida por su compromiso con la sostenibilidad ambiental.
+Son ejemplos de cómo los valores corporativos pueden definir la identidad de una empresa y su enfoque de negocio.
+▷ Cómo integrar los valores en las operaciones diarias
+La adopción de valores corporativos debe ser más que una declaración.
+Deben integrarse activamente en todas las operaciones y decisiones de la empresa:
+Comunicación y capacitación: Asegurar que todos los empleados comprendan y se comprometan con los valores.
+Liderazgo por el ejemplo: Los líderes de la empresa deben personificar y defender activamente los valores.
+Políticas y prácticas coherentes: Implementar políticas y prácticas que reflejen y refuercen los valores.
+Reconocimiento y recompensa: Promover un sistema de reconocimiento que premie las conductas que alinean con los valores corporativos.
+Los valores corporativos son fundamentales para construir una empresa sólida y respetada.
+No solo guían las operaciones diarias, sino que también sirven para atraer y retener talento, clientes y socios que comparten estos principios.
+Una empresa con valores claros y vividos es una empresa preparada para el éxito a largo plazo en un mundo empresarial cada vez más consciente y conectado.
+
+conversation = [
+    {"role": "system", "content": context },
+    {"role": "user", "content": prompt },
+]
+
+response = openai.ChatCompletion.create(
+    model='gpt-3.5-turbo',
+    messages=conversation,
+    max_tokens=200
+)
+
+message = response.choices[0]['message']
+print("{}: {}".format(message['role'], message['content']))
+
+
+
+
+
+
+
+
+Misión:
+En República IA, nuestra misión es revolucionar el mundo del influencer marketing mediante la creación y gestión de influencers virtuales impulsados por inteligencia artificial. Nos comprometemos a ofrecer a nuestros clientes una vanguardia tecnológica única, combinada con una creatividad excepcional, para alcanzar resultados impactantes y auténticos en sus campañas de marketing.
+
+Visión:
+Nos visualizamos como líderes globales en la creación y gestión de influencers virtuales, siendo reconocidos por nuestra innovación, ética y calidad en cada interacción. Buscamos transformar la industria del marketing digital al ofrecer soluciones que trascienden los límites de la realidad, inspirando conexiones genuinas entre marcas y audiencias en todo el mundo.
+
+Valores:
+
+Innovación: Abrazamos la vanguardia tecnológica y nos esforzamos por estar a la vanguardia en la creación de influencers virtuales, explorando constantemente nuevas formas de impactar y cautivar a las audiencias.
+
+
+Autenticidad: A pesar de ser creados con inteligencia artificial, nuestros influencers se mantienen fieles a una narrativa auténtica y coherente, lo que garantiza una conexión genuina con sus seguidores y la marca que representan.
+
+
+Integridad: Nos comprometemos a actuar con honestidad, transparencia y responsabilidad en todas nuestras operaciones, manteniendo la confianza de nuestros clientes, colaboradores y seguidores en todo momento.
+
+
+Creatividad: Valoramos la creatividad como motor de la innovación y la diferenciación. Buscamos inspirar a través de contenido fresco, único y relevante, que impulse el compromiso y la lealtad de la audiencia.
+
+
+Colaboración: Creemos en el poder de la colaboración y el trabajo en equipo. Fomentamos un entorno inclusivo donde se promueva el intercambio de ideas, la diversidad de pensamiento y el apoyo mutuo para alcanzar nuestros objetivos comunes.
+
+
+Impacto positivo: Nos esforzamos por generar un impacto positivo en la sociedad y el medio ambiente, actuando de manera responsable y promoviendo valores que contribuyan al bienestar de las personas y el planeta.
